@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Raushan Shrivastava</h1>
+<h1 align="center">Hello 👋, I'm Raushan Shrivastava</h1>
 <h3 align="center">A passionate Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan-geek&label=Profile%20views&color=0e75b6&style=flat" alt="raushan-geek" /> </p>
 
 - 🔭 I’m currently working on [Pewt website](https://pewt.org/associates.aspx#)
 
-- 🌱 I’m currently learning **Express-JS ,JavaScript**
+- 🌱 I’m currently learning **Express-JS ,JavaScript,API,MongoDB,React**
 
-- 💬 Ask me about **C,C++,Javascript,JAVA**
+- 💬 Ask me about **C,C++,Javascript,JAVA,Digital-Marketing**
 
 - 📫 How to reach me **raushanshrivastava69@gmail.com**
 
@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raushan15712212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raushan15712212" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raushan-shrivastava-700b49218-shrivastava-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan-shrivastava-700b49218-shrivastava-" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raushan-shrivastava-700b49218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raushan-shrivastava-700b49218" height="30" width="40" /></a>
 <a href="https://fb.com/raushanraj.shristava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raushanraj.shristava" height="30" width="40" /></a>
-<a href="https://instagram.com/raushanshrivastava11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raushanshrivastava11" height="30" width="40" /></a>
+<a href="https://instagram.com/raushanrajshrivastava11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raushanrajshrivastava11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raushan-geek&show_icons=true&locale=en" alt="raushan-geek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raushan-geek&" alt="raushan-geek" /></p>
+
